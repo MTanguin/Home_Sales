@@ -1,11 +1,11 @@
 # Home_Sales
 
-##OBJECTIVES
+## OBJECTIVES
 
 - Use SparkSQL to determine key metrics about home sales data. 
 - Use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
