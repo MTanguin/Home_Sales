@@ -33,6 +33,13 @@
 ![avgprice_3bed_3bath](https://user-images.githubusercontent.com/114210481/231291355-a1a3cecc-f080-41a3-8454-4bfa13badd25.jpg)
 
 
+
+
+Sources:
+https://courses.bootcampspot.com/courses/2799/assignments/42933?module_item_id=804089
+
+https://spark.apache.org/docs/latest/api/python/getting_started/index.html
+
 - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
 ![avgprice_3bed_3bath_2fl](https://user-images.githubusercontent.com/114210481/231291406-136d2eec-5aee-49a5-8b05-f049ab055bcf.jpg)
