@@ -20,7 +20,7 @@
 
 
 
-5. Answer the following questions using SparkSQL:
+5. Answer the following questions:
 
 - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
