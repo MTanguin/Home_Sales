@@ -75,3 +75,10 @@ Run time : 0.18667101860046387 seconds
 13. Verify that the home_sales temporary table is uncached using PySpark.
 
 14. Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+
+
+Sources:
+
+https://courses.bootcampspot.com/courses/2799/assignments/42933?module_item_id=804089
+
+https://spark.apache.org/docs/latest/api/python/getting_started/index.html
