@@ -1,4 +1,4 @@
-# Home_Sales
+#### "Data-driven insights and performance optimization using SparkSQL for key metrics analysis and efficient data management in home sales data."
 
 ## OBJECTIVES
 
